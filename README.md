@@ -11,28 +11,51 @@
 
 ## Project Structure:
 data/
+
     data1/
+    
         doc1.txt
+        
         doc2.txt
+        
         ...
+        
     dat2/
+    
         ...
+        
 index/
+
     index1.json
+    
     index2.json
+    
     ...
+    
 model/
+
     term.py
+    
     term_weighting.py
+    
     index.py
+    
     model.py
+    
 pipeline/
+
     pipline1.json
+    
     pipline2.json
+    
     ...
+    
 utils/
+
     ...
+    
 main.py
+
 requirement.txt
     
 ## Giới thiệu môn học:
